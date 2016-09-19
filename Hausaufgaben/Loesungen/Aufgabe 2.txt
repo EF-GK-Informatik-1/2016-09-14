@@ -1,0 +1,8 @@
+a)
+Rover fährt 5 mal nach vorne. (5 Wiederhohlungen)
+
+b)
+Fährt garnicht, weil kein Hügel auf der rechten Seite ist. (keine Wiederhohlung)
+
+c)
+Fährt ein mal nach vorne. (1 Wiederhohlungen)
