@@ -1,0 +1,5 @@
+Funktion des "!":
+
+Das "!" negiert Boolsche Werte.
+
+!true == false, !false == true
